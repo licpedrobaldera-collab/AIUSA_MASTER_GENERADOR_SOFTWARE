@@ -1,0 +1,6 @@
+{
+  "name": "BASA Enterprise SaaS Control",
+  "description": "Sistema de Control de Licencias, Clientes y Generador de Repositorios Autónomos de Software para BASA Enterprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
